@@ -1,0 +1,7 @@
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\bin\Debug\Stok Takip Sistemi.exe.config
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\bin\Debug\Stok Takip Sistemi.exe
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\bin\Debug\Stok Takip Sistemi.pdb
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\obj\Debug\Stok Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\obj\Debug\Stok Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\obj\Debug\Stok Takip Sistemi.exe
+C:\Users\aylin\Desktop\hıckırık\Stok Takip Sistemi\Stok Takip Sistemi\obj\Debug\Stok Takip Sistemi.pdb
